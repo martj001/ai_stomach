@@ -1,4 +1,4 @@
-# ai_thyroid
+# ai_stomach
 Survival risk estimation by comparing two CT scans
 - Before chemotherapy
 ![plot](./demo_image/demo_ct1_global.png)
